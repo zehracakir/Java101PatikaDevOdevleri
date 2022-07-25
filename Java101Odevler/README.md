@@ -1,4 +1,3 @@
 # Java 101 bölümündeki ödevlerin çözümleri 
-```bash
-https://www.patika.dev/tr
-```
+
+* https://www.patika.dev/tr
