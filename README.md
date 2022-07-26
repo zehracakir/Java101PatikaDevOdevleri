@@ -1,4 +1,4 @@
 # Java101PatikaDevOdevleri
 
-Java 101 bölümündeki ödevlerin çözümleri
-https://www.patika.dev/tr
+* Java 101 bölümündeki ödevlerin çözümleri
+* https://www.patika.dev/tr
